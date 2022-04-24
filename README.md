@@ -1,2 +1,2 @@
-# miniature-octo-spoon
+# myPython
 Here you can check my python scripts.
