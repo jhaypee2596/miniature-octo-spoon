@@ -263,3 +263,6 @@ areas_copy[0] = 5.0
 
 # Print areas
 print(areas)
+
+# Antok ka na ba? 
+print("Antok ka na ba? Y/N")
